@@ -1,5 +1,5 @@
 void main() {
-  ValidCpf validCpf = ValidCpf(cpf: "DIGITE AQUI O NÚMERO DO CPF SEM PONTOS E TRAÇOS");
+  ValidCpf validCpf = ValidCpf(cpf: "DIGITE AQUI O NÚMERO DO CPF SEM PONTOS E TRAÇO");
   validCpf.validSucessfull();
 }
 
